@@ -19,6 +19,41 @@ a{
     text-decoration: none;
 }
 
+h1{
+    font-family: 'Cookie', cursive;
+    font-size: 5rem;
+}
+h2{
+    font-family: 'Cookie', cursive;
+    font-size: 3rem;
+}
+
+label{
+    font-family: 'Cookie', cursive;
+    font-size: 1.5rem;
+}
+span{
+    font-family: 'Cookie', cursive;
+    font-size: 1.5rem;
+}
+
+button{
+    font-family: 'Cookie', cursive;
+    font-size: 1.5rem;
+}
+
+h5{
+    font-family: 'Cookie', cursive;
+    font-size: 2rem;
+}
+
+
+
+li{
+    font-family: 'Cookie', cursive;
+    font-size: 1.5rem;
+}
+
 .header-container {
     display: flex;
     width: 100%;
