@@ -1,5 +1,3 @@
-/*Body*/
-
 /*
     COLORS
     #879EFF
@@ -8,52 +6,55 @@
     #BF7BE8
     #F287FF
 */
-body{
+
+/*Body*/
+
+body {
     background-color: #879EFF;
 }
 
-/*HEADER*/
-
-
-a{
+/*Fonts*/
+a {
     text-decoration: none;
 }
 
-h1{
+h1 {
     font-family: 'Cookie', cursive;
     font-size: 5rem;
 }
-h2{
+
+h2 {
     font-family: 'Cookie', cursive;
     font-size: 3rem;
 }
 
-label{
-    font-family: 'Cookie', cursive;
-    font-size: 1.5rem;
-}
-span{
+label {
     font-family: 'Cookie', cursive;
     font-size: 1.5rem;
 }
 
-button{
+span {
     font-family: 'Cookie', cursive;
     font-size: 1.5rem;
 }
 
-h5{
+button {
+    font-family: 'Cookie', cursive;
+    font-size: 1.5rem;
+}
+
+h5 {
     font-family: 'Cookie', cursive;
     font-size: 2rem;
 }
 
-
-
-li{
+li {
     font-family: 'Cookie', cursive;
     font-size: 1.5rem;
 }
 
+
+/*HEADER*/
 .header-container {
     display: flex;
     width: 100%;
@@ -87,16 +88,15 @@ li{
     border-radius: 5px;
     margin: 10px;
     padding: 10px;
-    
+
 }
 
-.active li{
+.active li {
     background-color: #F287FF;
     text-decoration: none;
 }
 
 /*MAIN CONTAINER*/
-
 .main-container {
     display: flex;
     flex-direction: column;
@@ -123,15 +123,14 @@ li{
 }
 
 /*Formulario*/
-
-.mb-3{
+.mb-3 {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.button-sub{
+.button-sub {
     margin: 10px;
     color: white;
     background-color: #BF7BE8;
@@ -152,6 +151,7 @@ li{
     background-color: #BF7BE8;
     color: aliceblue;
 }
+
 .button-sub:active {
     /* margin: 20px; */
     background-color: #837BE8;
@@ -159,8 +159,7 @@ li{
 }
 
 /*Footer*/
-
-.footer-container{
+.footer-container {
     display: flex;
     justify-content: center;
     align-items: center;

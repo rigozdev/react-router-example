@@ -1,3 +1,4 @@
+/*Importación de Link para manejo de error 404 */
 import {Link} from 'react-router-dom'
 
 const NotFound = () => {

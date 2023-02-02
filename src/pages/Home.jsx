@@ -1,3 +1,5 @@
+/*Componente Home-bienvenida */
+
 const Home = () => {
     return (
         <div className="main-content-title">

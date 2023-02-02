@@ -1,3 +1,5 @@
+/*Componente de contacto/formulario */
+
 const Contacto = () => {
     return (
         <div className="main-content">
